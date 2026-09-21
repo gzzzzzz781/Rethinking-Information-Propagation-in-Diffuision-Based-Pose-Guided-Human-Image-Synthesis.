@@ -1,7 +1,7 @@
 # Rethinking Information Propagation in Diffusion-Based Pose-Guided Human Image Synthesis
 
 ## 0. Download
-Our pretained checkpoints and final results are available at[Google Drive](https://drive.google.com/drive/folders/1f5v4gxzPFzJYZcOMgBXJaakggTUlC3S7?usp=sharing). 
+Our pretained checkpoints and final results are available at [Google Drive](https://drive.google.com/drive/folders/1f5v4gxzPFzJYZcOMgBXJaakggTUlC3S7?usp=sharing). 
 
 ### 1. Dataset
 - Download `img_highres.zip` of the DeepFashion Dataset from [In-shop Clothes Retrieval Benchmark](https://drive.google.com/drive/folders/0B7EVK8r0v71pYkd5TzBiclMzR00). 
